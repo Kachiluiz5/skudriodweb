@@ -275,7 +275,7 @@
             <div class="column col-md-4 col-sm-12">
                 <div class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s" data-wow-offset="0" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeIn;">
                     <figure class="img-box">
-                        <a href="#"><img src="images/resource/.png" alt=""></a>
+                        <a href="#"><img src="images/" alt=""></a>
                     </figure>
                 </div>
                             
