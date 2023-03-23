@@ -1,4 +1,3 @@
-/**********  Beauty Spa HTML5 Template  *********/
 
 
 /************ TABLE OF CONTENTS ***************
@@ -1073,7 +1072,7 @@ end===================
 
 .feature .img-box {
     position:relative;
-    margin-left: -200px;
+    /* margin-left: -200px; */
     top: 26px;
 }
 

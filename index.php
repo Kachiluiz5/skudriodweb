@@ -275,7 +275,14 @@
             <div class="column col-md-4 col-sm-12">
                 <div class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s" data-wow-offset="0" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeIn;">
                     <figure class="img-box">
-                        <a href="#"><img src="images/" alt=""></a>
+                        <a href="#"><img src="images/main-slider/51.jpg" alt="" style="width: 400px; height: 400px;"></a>
+                        <style>
+                            .feature .img-box {
+    position: relative;
+    margin-left: 0px;
+    top: 26px;
+}
+                        </style>
                     </figure>
                 </div>
                             
@@ -316,7 +323,7 @@
 
 
 
-<section class="call-out">
+<!-- <section class="call-out">
     <div class="container">
         <div class="row">
 
@@ -403,7 +410,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <section class="cource">
@@ -669,28 +676,28 @@
                     <div class="inner-box tab-pane fade in active " id="Education">
                         <div class="content">
                             <h2>Let the Learning Begin </h2>
-                            <p>We are group of teachers who really love childrens and enjoy every moment of teaching and playing with our students.Our teachers graduated from differnt Universities with as different subjects but its all included in Education Major. Therefore, we are very confident with our knowledge and teaching skills.</p>
+                            <p>Unlock your child's potential with our cutting-edge coding and robotics programs. Our experienced instructors provide a hands-on learning experience that teaches children and teens valuable skills in coding, programming, and robotics. From building robots to creating games, our programs offer a wide range of exciting projects that challenge and inspire young minds. With a focus on problem-solving and critical thinking, our programs are designed to prepare children for success in the digital age.</p>
                             <a href="#" class="link">Read More</a>
                         </div>
                     </div>
                     <div class="inner-box tab-pane fade " id="Activities">
                         <div class="content">
                             <h2>Let the Learning Begin </h2>
-                            <p>We are group of teachers who really love childrens and enjoy every moment of teaching and playing with our students.Our teachers graduated from differnt Universities with as different subjects but its all included in Education Major. Therefore, we are very confident with our knowledge and teaching skills.</p>
+                            <p>Our firm offers engaging activities such as robot building, game development, coding challenges, robotics competitions, and group projects. We help children and teens learn fundamental skills to prepare them for success in the digital age.</p>
                             <a href="#" class="link">Read More</a>
                         </div>
                     </div>
                     <div class="inner-box tab-pane fade " id="Painting">
                         <div class="content">
                             <h2>Let the Learning Begin </h2>
-                            <p>We are group of teachers who really love childrens and enjoy every moment of teaching and playing with our students.Our teachers graduated from differnt Universities with as different subjects but its all included in Education Major. Therefore, we are very confident with our knowledge and teaching skills.</p>
+                            <p>Coding is an essential skill in today's digital age, and our firm provides innovative coding programs for children and teens. Our experienced instructors teach coding fundamentals using fun and interactive methods, fostering problem-solving and critical thinking skills. Our programs help prepare students for success in a constantly evolving technological landscape.</p>
                             <a href="#" class="link">Read More</a>
                         </div>
                     </div>
                     <div class="inner-box tab-pane fade " id="Games">
                         <div class="content">
                             <h2>Let the Learning Begin </h2>
-                            <p>We are group of teachers who really love childrens and enjoy every moment of teaching and playing with our students.Our teachers graduated from differnt Universities with as different subjects but its all included in Education Major. Therefore, we are very confident with our knowledge and teaching skills.</p>
+                            <p>Robotics is a fascinating field that combines engineering, programming, and design. Our firm offers robotics programs for children and teens that provide hands-on experience with building and programming robots. Our expert instructors guide students through exciting projects that challenge and inspire them to develop important skills like problem-solving, creativity, and teamwork.</p>
                             <a href="#" class="link">Read More</a>
                         </div>
                     </div>
@@ -704,7 +711,7 @@
                 <div class="testimonial-slide">
 
                     <div class="item center">
-                        <img src="images/team/t1.jpg" alt="">
+                        <img src="images/team/av1.jpg" alt="" style="width: 70px; height: 70px; border-radius: 10px;">
                         <div class="img-ifo">
                             <div class="text">
                                 <p>I noticed my son can think beyond, and also try solving basic problems</p>
@@ -722,7 +729,7 @@
                         </div>
                     </div>
                     <div class="item center">
-                        <img src="images/team/t1.jpg" alt="">
+                        <img src="images/team/av2.jpg" alt="" style="width: 70px; height: 70px; border-radius: 10px;">
                         <div class="img-ifo">
                             <div class="text">
                                 <p>My kids are actually doing great, they will always come home trying to build something</p>
@@ -740,7 +747,7 @@
                         </div>
                     </div>
                     <div class="item center">
-                        <img src="images/team/t1.jpg" alt="">
+                        <img src="images/team/av3.jpg" alt="" style="width: 70px; height: 70px; border-radius: 10px;">
                         <div class="img-ifo">
                             <div class="text">
                                 <p>The Robotics and Coding Class has been so useful to my kids, this is so great!</p>
@@ -786,7 +793,7 @@
             <div class="clearfix">
                 <h2 class="pull-left">See Our Galleries and beautify Events!</h2>
                 <div class="link pull-right">
-                    <a href="#" class="theme-btn btn-style-one">See Gallery</a>
+                    <a href="gallery.php" class="theme-btn btn-style-one">See Gallery</a>
                 </div>
             </div>
         </div>

@@ -75,7 +75,7 @@
                                     </ul> -->
                                 </li>
                                 <li class="dropdown">
-                                    <a href="blog.php">pages</a>
+                                    <a href="#">pages</a>
                                     <ul class="submenu">
                                         <li><a href="about.php">About</a></li>
                                         <li><a href="class.php">Class</a></li>
