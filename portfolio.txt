@@ -1,0 +1,284 @@
+        <div class="sortable-carousel">
+            <!--Filter-->
+            <div class="row">
+                
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/1.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/2.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/3.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/4.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/5.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/6.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/7.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/8.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+            </div>
+            <div class="row">
+                
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/1.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/2.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/3.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/4.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/5.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/6.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/7.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--Default Portfolio Item-->
+                <div class="col-md-3 col-sm-6 col-xs-12 default-portfolio-item">
+                    <div class="inner-box">
+                        <figure class="image-box"><img src="images/gallery/8.jpg" alt=""></figure>
+                        <!--Overlay Box-->
+                        <div class="overlay-box">
+                            <div class="overlay-inner">
+                                <div class="content">
+                                    <h3><a href="#gallery-popup" class=" has-gallery-popup" title="Open Gallery Popup">Opening Remark</a></h3>
+                                    <a href="#gallery-popup" class="image-link has-gallery-popup" title="Open Gallery Popup"><span class="icon-magnifier"></span></a>
+                                    <a href="#" class="image-link2"><span class="icon-link-1"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+            </div>
+            
+        </div>
+        
+    </div>
